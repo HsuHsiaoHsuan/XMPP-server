@@ -1,0 +1,22 @@
+{
+  "name": "xmpp-server",
+  "version": "1.0.0",
+  "description": "just for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsuHsiaoHsuan/XMPP-server.git"
+  },
+  "author": "Hsiao-Hsuan hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HsuHsiaoHsuan/XMPP-server/issues"
+  },
+  "homepage": "https://github.com/HsuHsiaoHsuan/XMPP-server#readme",
+  "dependencies": {
+    "node-xmpp-server": "^2.1.0"
+  }
+}
