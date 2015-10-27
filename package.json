@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/HsuHsiaoHsuan/XMPP-server#readme",
   "dependencies": {
+    "node-xmpp-client": "^2.0.2",
     "node-xmpp-server": "^2.1.0"
   }
 }
